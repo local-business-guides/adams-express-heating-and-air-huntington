@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/adams-express-heating-and-air-huntington/sitemap.xml
+Sitemap: https://local-business-guides.github.io/adams-express-heating-and-air-huntington/news-sitemap.xml
